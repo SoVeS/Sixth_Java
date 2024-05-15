@@ -1,0 +1,16 @@
+{
+  "item.mptmod.hextec": "Хекстек",
+  "item.mptmod.raw_hextec": "Необработанный хекстек",
+  "item.mptmod.hextec_pickaxe":"Хекстековая кирка",
+  "item.mptmod.hextec_axe":"Хекстековый топор",
+  "item.mptmod.hextec_shovel":"Хекстековая лопата",
+  "item.mptmod.hextec_hoe":"Хекстековая мотыга",
+  "item.mptmod.hextec_sword":"Хекстековый меч",
+  "item.mptmod.hextec_helmet":"Хекстековый шлем",
+  "item.mptmod.hextec_chestplate":"Хекстековый нагрудник",
+  "item.mptmod.hextec_leggings":"Хекстековые поножи",
+  "item.mptmod.hextec_boots":"Хекстековые ботинки",
+  "block.mptmod.hextec_block": "Блок хекстека",
+  "block.mptmod.hextec_ore": "Хекстековая руда",
+  "itemGroup.mpttab": "МПТ Мод"
+}

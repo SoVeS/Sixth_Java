@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mptmod:hextec_block"
+    }
+  ],
+  "result": {
+    "item": "mptmod:hextec",
+    "count": 9
+  }
+}

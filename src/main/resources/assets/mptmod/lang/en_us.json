@@ -1,0 +1,16 @@
+{
+  "item.mptmod.hextec": "Hextec",
+  "item.mptmod.raw_hextec": "Raw Hextec",
+  "item.mptmod.hextec_pickaxe":"Hextec Pickaxe",
+  "item.mptmod.hextec_axe":"Hextec Axe",
+  "item.mptmod.hextec_shovel":"Hextec Shovel",
+  "item.mptmod.hextec_hoe":"Hextec Hoe",
+  "item.mptmod.hextec_sword":"Hextec Sword",
+  "item.mptmod.hextec_helmet":"Hextec Helmet",
+  "item.mptmod.hextec_chestplate":"Hextec Chestplate",
+  "item.mptmod.hextec_leggings":"Hextec Leggings",
+  "item.mptmod.hextec_boots":"Hextec Boots",
+  "block.mptmod.hextec_block": "Block of Hextec",
+  "block.mptmod.hextec_ore": "Hextec Ore",
+  "itemGroup.mpttab": "Hextec Tab"
+}
